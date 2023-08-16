@@ -11,7 +11,7 @@ export function LinktreeBOS() {
     return (
         <Container>
             <VmComponent
-                src="ndcplug.near/widget/Linktree.Main"
+                src="edgeai.near/widget//Edge.Views.Home"
                 props={{accountId: process.env.NEXT_PUBLIC_ACCOUNT_ID}}
             />
         </Container>

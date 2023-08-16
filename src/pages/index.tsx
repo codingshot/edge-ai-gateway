@@ -21,8 +21,8 @@ const HomePage: NextPageWithLayout = () => {
   return (
     <>
       <MetaTags
-        title={`${process.env.NEXT_PUBLIC_ACCOUNT_ID} Linktree`}
-        description={`${process.env.NEXT_PUBLIC_ACCOUNT_ID} Linktree. Custom webpage pulling from social DB data`}
+        title={`Edge AI`}
+        description={`Edge AI AI Hackathon & Conference`}
       />
       <LinktreeBOS />
     </>
